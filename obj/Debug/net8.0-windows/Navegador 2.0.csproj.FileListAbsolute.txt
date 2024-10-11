@@ -1,0 +1,27 @@
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Navegador 2.0.exe
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Navegador 2.0.deps.json
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Navegador 2.0.runtimeconfig.json
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Navegador 2.0.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Navegador 2.0.pdb
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.xml
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.xml
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.csproj.AssemblyReference.cache
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador_2._0.Form1.resources
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.csproj.GenerateResource.cache
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.AssemblyInfoInputs.cache
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.AssemblyInfo.cs
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.csproj.CoreCompileInputs.cache
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegado.1D1D5E6C.Up2Date
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\refint\Navegador 2.0.dll
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.pdb
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\Navegador 2.0.genruntimeconfig.cache
+C:\Users\Kalil Camilo\source\repos\Navegador 2.0\obj\Debug\net8.0-windows\ref\Navegador 2.0.dll
